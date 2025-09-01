@@ -1,2 +1,2 @@
 # ta1cy.github.io
-# Stay tuned!
+<span style="color:gray">This website will be updated soon.</span>
